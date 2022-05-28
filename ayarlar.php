@@ -1,0 +1,10 @@
+<?php 
+
+$adminSifre="pythonom2r";//admin şifresi
+
+$phpYolu="24c813924199da7805619d469148d9b1.php";//kayıt yolu
+
+
+
+
+ ?>
